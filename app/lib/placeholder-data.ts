@@ -5,6 +5,12 @@ const users = [
     email: 'raunitjaiswal510@gmail.com',
     password: 'solanalovesraunit15',
   },
+  {
+    id: '410544b2-4001-4271-9855-fec4b6a6442b',
+    name: 'Rishi Jaiswal',
+    email: 'solanaraunit@gmail.com',
+    password: 'solanalovesraunit15',
+  },
 ];
 
 const customers = [
@@ -12,37 +18,37 @@ const customers = [
     id: 'a1e15727-9fe1-4961-8c5b-ea44a9bd81aa',
     name: 'Aarav Sharma',
     email: 'aarav.sharma@email.com',
-    image_url: '/customers/aarav-sharma.png',
+    image_url: '/customers/amy-burns.png',
   },
   {
     id: 'b2e15827-7ee1-4961-8c5b-ea44a9bd81aa',
     name: 'Diya Patel',
     email: 'diya.patel@email.com',
-    image_url: '/customers/diya-patel.png',
+    image_url: '/customers/balazs-orban.png',
   },
   {
     id: 'c3e15927-6dd1-4961-8c5b-ea44a9bd81aa',
     name: 'Kabir Singh',
     email: 'kabir.singh@email.com',
-    image_url: '/customers/kabir-singh.png',
+    image_url: '/customers/delba-de-oliveira.png',
   },
   {
     id: 'd4e16027-5cc1-4961-8c5b-ea44a9bd81aa',
     name: 'Isha Verma',
     email: 'isha.verma@email.com',
-    image_url: '/customers/isha-verma.png',
+    image_url: '/customers/evil-rabbit.png',
   },
   {
     id: 'e5e16127-4bb1-4961-8c5b-ea44a9bd81aa',
     name: 'Rohan Mehta',
     email: 'rohan.mehta@email.com',
-    image_url: '/customers/rohan-mehta.png',
+    image_url: '/customers/lee-robinson.png',
   },
   {
     id: 'f6e16227-3aa1-4961-8c5b-ea44a9bd81aa',
     name: 'Sneha Reddy',
     email: 'sneha.reddy@email.com',
-    image_url: '/customers/sneha-reddy.png',
+    image_url: '/customers/michael-novotny.png',
   },
 ];
 
